@@ -1,7 +1,7 @@
 # pandas-challenge
 Homework for Module 4 - Pandas
 
-In this assignment, we were challenged to use school data from 2 csv files to create and manipulate pandas DataFrames in order to draw analyse school performance compared to school demographics.
+In this assignment, we were challenged to use school data from 2 csv files to create and manipulate pandas DataFrames in order to analyse school performance compared to school demographics.
 
 Sources:
 
